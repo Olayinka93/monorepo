@@ -114,7 +114,7 @@ export default function PrivacyPolicyPage() {
                 <li>• <strong>Right to Opt-Out:</strong> Opt-out of marketing communications</li>
               </ul>
               <p className="text-muted-foreground mt-3">
-                To exercise any of these rights, please contact us at privacy@shelterflex.com.
+                To exercise any of these rights, please contact us at privacyAshelterflex.com.
               </p>
             </section>
 
@@ -153,7 +153,7 @@ export default function PrivacyPolicyPage() {
               </p>
               <div className="text-muted-foreground space-y-2">
                 <p><strong>Email:</strong> privacy@shelterflex.com</p>
-                <p><strong>Phone:</strong> +234 (0) XXX XXX XXXX</p>
+                <p><strong>Phone:</strong> +234 (0) 123 456 7890</p>
                 <p><strong>Address:</strong> Lagos, Nigeria</p>
               </div>
             </section>
